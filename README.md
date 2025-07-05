@@ -1,4 +1,4 @@
-# 💡 Sound-Reactive Dancing LED Mini Project
+# 💡 Sound-Reactive Dancing LED Micro Project
 
 An upgraded version of the classic Dancing LED project that uses a **sound sensor** to trigger LED patterns—making the LEDs dance in sync with claps, music, or other sounds.
 
@@ -30,6 +30,13 @@ Perfect for beginners in electronics and embedded systems who want to explore re
 - 🔀 Mix of manual sequence and real-time input
 - 🔋 Low-power and beginner-friendly
 - 📲 Easily expandable with more sensors
+
+
+##Setup Image
+
+![image alt](https://github.com/Ann-mary20/Sound-Reactive-Dancing-LED-Mini-Project/blob/main/WhatsApp%20Image%202025-07-05%20at%201.52.52%20PM.jpeg)
+![image alt](https://github.com/Ann-mary20/Sound-Reactive-Dancing-LED-Mini-Project/blob/main/WhatsApp%20Image%202025-07-05%20at%201.52.53%20PM%20(1).jpeg)
+![image alt](https://github.com/Ann-mary20/Sound-Reactive-Dancing-LED-Mini-Project/blob/main/WhatsApp%20Image%202025-07-05%20at%201.52.53%20PM.jpeg)
 
 ## 💻 Sample Arduino Code
 
